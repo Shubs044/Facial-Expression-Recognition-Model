@@ -1,5 +1,5 @@
 
-Facial Expression Recognition with Deep Learning
+#Facial Expression Recognition with Deep Learning
 
 This project aims to develop a facial expression recognition system using Convolutional Neural Network (CNN) algorithm. The system is designed to recognize five universal emotions - happy, sad, neutral, surprise and angry - using the Facial Action Coding System (FACS).
 
